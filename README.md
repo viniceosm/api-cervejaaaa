@@ -1,6 +1,6 @@
 # api-cervejaaaa
 
-Array de (3) objetos para representar o banco de dados.
+Array de ~3 :sweat_smile:~ objetos para representar o banco de dados.
 
 ```
 npm i
